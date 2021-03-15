@@ -47,11 +47,13 @@
   - RGB
   > Không tách được độ sáng, màu sắc
   - HSV
-  > Hue (màu, [0,359], góc), Saturation (độ bão hòa, [0,1], bán kính), Value ([0,255])
+  > Hue (màu, [0,359], góc), Saturation (độ bão hòa, [0,1], bán kính), Value ([0,255]) \
+  > Thường chỉ dùng H để phân biệt màu 
   - (YUV,LUV)
   - XYZ
   - YCrCb
   - LAB
+  > LAB tốt hơn YCrCb 
 
 ## 4. Digital image representation & formats
 > Một số định dạng khi lưu trữ
