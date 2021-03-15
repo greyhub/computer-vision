@@ -9,7 +9,7 @@
 
 * Cones, rods
   - Tế bào hình nón --> nhạy cảm với màu, cho phép phân biệt các màu khác nhau 
-  - Tế bào hình que --> nhạy cảm với ánh sáng, phân biệt được các đối tượng trong vùng tối `
+  - Tế bào hình que --> nhạy cảm với ánh sáng, phân biệt được các đối tượng trong vùng tối
 
 * Image formation
   - Source --> scene element --> image sys --> image plane
