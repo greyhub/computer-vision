@@ -50,6 +50,12 @@
   > Hue (màu, [0,359], góc), Saturation (độ bão hòa, [0,1], bán kính), Value ([0,255])
   - (YUV,LUV)
   - XYZ
+  - YCrCb
+  - LAB
 
 ## 4. Digital image representation & formats
 > Một số định dạng khi lưu trữ
+
+* Image representation
+  - Ma trận [0,255]
+  - (0,0) --> góc trên bên trái, tăng dần theo trái-phải-trên-dưới
