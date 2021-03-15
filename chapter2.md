@@ -28,12 +28,13 @@
 
 * Filter
   - Bước sóng thấp  --> chỉ cho ánh sáng Blue đi qua
-  - Bước sóng tb    --> Green (mắt người nhạy cảm với màu xanh lá nhất)
+  - Bước sóng tb    --> Green
+  > Mắt người nhạy cảm với màu xanh lá nhất
   - Bước sóng cao   --> Red
 
 * Real scene --> digital image
   - Scene + light --> electric charge (continunous signal) --> number (discrete signal)
-  - Digitization = Sampling (lấy mẫu) + Quantization (lượng tử hóa)
+  - **Digitization = Sampling (lấy mẫu) + Quantization (lượng tử hóa)**
   - Lấy mẫu: quyết định mức độ chi tiết của đối tượng quan sát được
   - Lượng tử hóa: quyết định giá trị khác nhau của mỗi pixel trong ảnh 
   > ex. 8 bits --> 2^8=256 --> [0,255]
