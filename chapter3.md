@@ -32,4 +32,11 @@
     - Homogenous transformation
     - Linear / Non-linear transformation
     - Contrast stretching
-    - 
+    - Thresholding function
+    - Some basic gray level transformations
+        - Image nagatives
+        - Log transformations
+        - Power-law transformations
+        - Piecewise-linear transformations functions
+        - Histogram processing
+        - 
