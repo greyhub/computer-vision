@@ -1,8 +1,19 @@
 # Chapter 4. Feature detection & Image matching
 
-## Feature extraction
-- Global features
-- Local features
-- Matching
+## Outline:
+- Feature extraction
+    - Global features
+    - Local features
+    - Matching
 
-## Applications
+- Applications
+
+
+## Global features
+- Types
+    - Contour, shape
+    - Color
+        - Histogram
+        - Distance / Similarity
+        > L1 | L2
+    - Texture
